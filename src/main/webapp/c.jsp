@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1>여기는 C 페이지</h1>
-  <h1>Ccxc Page </h1>
+  <h1>C Page </h1>
 </body>
 </html>
